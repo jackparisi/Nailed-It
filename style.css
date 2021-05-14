@@ -1,0 +1,41 @@
+.contactHead {
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.list-group-item {
+    text-align: center;
+}
+
+.homeHead {
+    text-align: center;
+    font-size: 3em;
+}
+
+.subHead {
+    text-align: center;
+}
+
+.chiadoCard {
+    float: left;
+}
+
+.accursoCard {
+    float: right;
+}
+
+.card-body {
+    background-color: aliceblue;
+}
+
+.footerBox {
+    position: fixed;
+    bottom: 0;
+}
+
+.footerBox {
+    text-align: center;
+}
